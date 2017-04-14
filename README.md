@@ -1,5 +1,6 @@
 # TFA
 The Footy App.
-https://www.mindmup.com/#m:a1993a5ba07284013350f86db4c98aba87
+
+[Status: Nothing To See]
 
 Experimenting with Ports and Adapters (sort of), DDD, and TDD (from the outside).
